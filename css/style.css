@@ -1,0 +1,36 @@
+body {
+    font: 20px arial, sans-serif;
+}
+
+.navbar {
+    background-color: #D1F2EB;
+}
+
+.quem-somos {
+    background-color: #8181F7;
+    color: white;
+}
+
+.parceiros {
+    color: white;
+    background-color: #566573;
+}
+
+.servico-box {
+    padding: 25px 10px;
+    background-color: white;
+    transition: 0.3s;
+}
+.servico-box:hover {
+    background-color: #EAECEE;
+}
+
+.margin {
+    padding-top: 15px;
+    padding-bottom: 50px;
+}
+
+.bg-footer {
+    background-color: black;
+    color: white;
+}
